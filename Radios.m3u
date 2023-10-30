@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/la-mejor-ciudad-de-mexico.png" group-title="Radios" radio="true",La Mejor 97.7 CDMX
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC
-#EXTINF:-1,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/los-40.png" group-title="radio" radio="true",Los 40 CDMX
+#EXTINF:-1,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/los-40.png" group-title="Radios" radio="true",Los 40 CDMX
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO_SC
-#EXTINF:-1,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/disney.png" group-title="radio" radio="true",Radio Disney
+#EXTINF:-1,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/disney.png" group-title="Radios" radio="true",Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC_SC
