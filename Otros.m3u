@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/69wkng98emcz49mrnq8g"
+#EXTM3U
 #EXTINF:-1 tvg-id="Antena3.mx" tvg-name="ANTENA3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" group-title="TOTAL",ANTENA3
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
 #EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="baby tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="TOTAL",baby tv
