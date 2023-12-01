@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/la-mejor-ciudad-de-mexico.png" group-title="Peliculas" movie="true",MEGADOLON 2 (2023)
+#EXTINF:0,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/la-mejor-ciudad-de-mexico.png" group-title="Peliculas" movie="true",MEGADOLON 2 (2023)
 https://cdn.jwplayer.com/manifests/MvNB3B05.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.webrad.io/images/logos/emisoras-com-mx/los-40.png" group-title="Peliculas" movie="true",Los 40 CDMX
 https://archive.org/download/mipobreangelito11990/Mi%20Pobre%20Angelito%201%20%281990%29.mp4
