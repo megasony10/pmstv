@@ -1,5 +1,6 @@
 [
   {"name": "MX: AZTECA UNO", "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"},
   {"name": "MX: ESTRELLAS", "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"},
-  {"name": "MX: IMAGEN TV+", "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"}
+  {"name": "MX: IMAGEN TV+", "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"},
+  {"name": "MX: MULTIMEDIOS MTY", "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8"}
 ]
